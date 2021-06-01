@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/covid19-tw/static/css/main.1b95ef0c.chunk.css",
-    "main.js": "/covid19-tw/static/js/main.8e136562.chunk.js",
-    "main.js.map": "/covid19-tw/static/js/main.8e136562.chunk.js.map",
-    "runtime-main.js": "/covid19-tw/static/js/runtime-main.85b605e7.js",
-    "runtime-main.js.map": "/covid19-tw/static/js/runtime-main.85b605e7.js.map",
+    "main.js": "/covid19-tw/static/js/main.abe74d3c.chunk.js",
+    "main.js.map": "/covid19-tw/static/js/main.abe74d3c.chunk.js.map",
+    "runtime-main.js": "/covid19-tw/static/js/runtime-main.26ee6b1a.js",
+    "runtime-main.js.map": "/covid19-tw/static/js/runtime-main.26ee6b1a.js.map",
     "static/css/2.80b8a48f.chunk.css": "/covid19-tw/static/css/2.80b8a48f.chunk.css",
-    "static/js/2.7b6afd28.chunk.js": "/covid19-tw/static/js/2.7b6afd28.chunk.js",
-    "static/js/2.7b6afd28.chunk.js.map": "/covid19-tw/static/js/2.7b6afd28.chunk.js.map",
-    "static/js/3.c94f3a8f.chunk.js": "/covid19-tw/static/js/3.c94f3a8f.chunk.js",
-    "static/js/3.c94f3a8f.chunk.js.map": "/covid19-tw/static/js/3.c94f3a8f.chunk.js.map",
+    "static/js/2.2f8c3ab3.chunk.js": "/covid19-tw/static/js/2.2f8c3ab3.chunk.js",
+    "static/js/2.2f8c3ab3.chunk.js.map": "/covid19-tw/static/js/2.2f8c3ab3.chunk.js.map",
+    "static/js/3.c73b3c2b.chunk.js": "/covid19-tw/static/js/3.c73b3c2b.chunk.js",
+    "static/js/3.c73b3c2b.chunk.js.map": "/covid19-tw/static/js/3.c73b3c2b.chunk.js.map",
     "index.html": "/covid19-tw/index.html",
     "static/css/2.80b8a48f.chunk.css.map": "/covid19-tw/static/css/2.80b8a48f.chunk.css.map",
     "static/css/main.1b95ef0c.chunk.css.map": "/covid19-tw/static/css/main.1b95ef0c.chunk.css.map",
-    "static/js/2.7b6afd28.chunk.js.LICENSE.txt": "/covid19-tw/static/js/2.7b6afd28.chunk.js.LICENSE.txt"
+    "static/js/2.2f8c3ab3.chunk.js.LICENSE.txt": "/covid19-tw/static/js/2.2f8c3ab3.chunk.js.LICENSE.txt",
+    "static/js/mapbox-gl-csp-worker.09252dff.worker.js": "/covid19-tw/static/js/mapbox-gl-csp-worker.09252dff.worker.js",
+    "static/js/mapbox-gl-csp-worker.09252dff.worker.js.map": "/covid19-tw/static/js/mapbox-gl-csp-worker.09252dff.worker.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.85b605e7.js",
+    "static/js/runtime-main.26ee6b1a.js",
     "static/css/2.80b8a48f.chunk.css",
-    "static/js/2.7b6afd28.chunk.js",
+    "static/js/2.2f8c3ab3.chunk.js",
     "static/css/main.1b95ef0c.chunk.css",
-    "static/js/main.8e136562.chunk.js"
+    "static/js/main.abe74d3c.chunk.js"
   ]
 }
