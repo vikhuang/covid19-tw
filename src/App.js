@@ -9,6 +9,7 @@ import ReactMapGL, {
   ScaleControl,
   GeolocateControl
 } from 'react-map-gl';
+import mapboxgl from "mapbox-gl";  
 
 import ControlPanel from './control-panel';
 import Pins from './pins';
@@ -17,7 +18,7 @@ import CaseInfo from './caseInfo';
 import CASES from './data.json';
 
 // eslint-disable-next-line import/no-webpack-loader-syntax
-ReactMapGL.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default;
+mapboxgl.workerClass = require("worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker").default;
 
 const TOKEN = 'pk.eyJ1Ijoidmlra3lodWFuZyIsImEiOiJjaXpxZGFwejkwMGh6MnBvYWU4amNmbnlmIn0._kb6jGtKy9mU8jbVmOvrcQ'; 
 
