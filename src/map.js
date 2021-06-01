@@ -17,29 +17,10 @@ import CASES from './data.json';
 
 const TOKEN = 'pk.eyJ1Ijoidmlra3lodWFuZyIsImEiOiJjaXpxZGFwejkwMGh6MnBvYWU4amNmbnlmIn0._kb6jGtKy9mU8jbVmOvrcQ'; 
 
-const geolocateStyle = {
-  top: 0,
-  left: 0,
-  padding: '10px'
-};
-
-const fullscreenControlStyle = {
-  top: 36,
-  left: 0,
-  padding: '10px'
-};
-
-const navStyle = {
-  top: 72,
-  left: 0,
-  padding: '10px'
-};
-
-const scaleControlStyle = {
-  bottom: 36,
-  left: 0,
-  padding: '10px'
-};
+const geolocateStyle = { top: 0, left: 0, padding: '10px' };
+const fullscreenControlStyle = { top: 36, left: 0, padding: '10px' };
+const navStyle = { top: 72, left: 0, padding: '10px' };
+const scaleControlStyle = { bottom: 36, left: 0, padding: '10px' };
 
 export default function Map() {
   const [viewport, setViewport] = useState({
