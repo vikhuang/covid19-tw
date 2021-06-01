@@ -17,7 +17,7 @@ import CaseInfo from './caseInfo';
 import CASES from './data.json';
 
 // eslint-disable-next-line import/no-webpack-loader-syntax
-mapboxgl.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default;
+ReactMapGL.workerClass = require('worker-loader!mapbox-gl/dist/mapbox-gl-csp-worker').default;
 
 const TOKEN = 'pk.eyJ1Ijoidmlra3lodWFuZyIsImEiOiJjaXpxZGFwejkwMGh6MnBvYWU4amNmbnlmIn0._kb6jGtKy9mU8jbVmOvrcQ'; 
 
